@@ -1,0 +1,17 @@
+{
+    "categories": [
+      {
+        "id": "cat1",
+        "name": "CSPM Executive Dashboard",
+        "enabled": true,
+        "widgets": []
+      },
+      {
+        "id": "cat2",
+        "name": "Cloud Inventory",
+        "enabled": true,
+        "widgets": []
+      }
+    ]
+  }
+  
